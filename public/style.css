@@ -1,0 +1,6 @@
+body { margin: 0; font-family: sans-serif; }
+#viewer { position: absolute; top: 0; left: 200px; right: 0; bottom: 0; }
+#controls {
+  position: absolute; top: 0; left: 0; width: 200px; height: 100%;
+  background: #f0f0f0; padding: 10px; box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
